@@ -1,0 +1,1 @@
+cmd_/home/darren/Lab/Lab05/dist/rootfs/hellomod/hellomod.mod := printf '%s\n'   hellomod.o | awk '!x[$$0]++ { print("/home/darren/Lab/Lab05/dist/rootfs/hellomod/"$$0) }' > /home/darren/Lab/Lab05/dist/rootfs/hellomod/hellomod.mod

@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "function_list.h": "c",
+        "netdb.h": "c",
+        "ios": "c",
+        "__node_handle": "c",
+        "stdio.h": "c",
+        "dlfcn.h": "c",
+        "inttypes.h": "c",
+        "unistd.h": "c",
+        "config.h": "c",
+        "errno.h": "c",
+        "stat.h": "c"
+    }
+}
