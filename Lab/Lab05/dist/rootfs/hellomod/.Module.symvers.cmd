@@ -1,1 +1,0 @@
-cmd_/home/darren/Lab/Lab05/dist/rootfs/hellomod/Module.symvers :=  scripts/mod/modpost       -o /home/darren/Lab/Lab05/dist/rootfs/hellomod/Module.symvers -T /home/darren/Lab/Lab05/dist/rootfs/hellomod/modules.order -i Module.symvers -e 

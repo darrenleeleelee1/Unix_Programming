@@ -1,1 +1,0 @@
-cmd_/home/darren/Lab/Lab05/dist/rootfs/kshrammod/kshram.mod := printf '%s\n'   kshram.o | awk '!x[$$0]++ { print("/home/darren/Lab/Lab05/dist/rootfs/kshrammod/"$$0) }' > /home/darren/Lab/Lab05/dist/rootfs/kshrammod/kshram.mod
